@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "home": "홈",
+    "cities": "도시",
+    "states": "주",
+    "calculator": "계산기",
+    "guide": "가이드",
+    "faq": "자주 묻는 질문"
+  },
+  "home": {
+    "heroTitle": "임대 vs 구매, 어느 것이 나을까요?",
+    "heroSubtitle": "50개 이상 미국 도시의 무료 손익분기점 분석. 당신의 도시에서 언제 구매가 임대보다 유리한지 알아보세요.",
+    "searchPlaceholder": "도시 검색...",
+    "bestCitiesToBuy": "2025년 구매 최적 도시",
+    "bestCitiesToRent": "2025년 임대 최적 도시",
+    "nationalStats": "전국 개요",
+    "medianRent": "전국 중위 임대료",
+    "medianHomePrice": "전국 중위 주택 가격",
+    "avgBreakeven": "평균 손익분기점 (년)",
+    "priceToRentRatio": "평균 가격 대 임대료 비율",
+    "ctaTitle": "개인화된 분석 실행",
+    "ctaDesc": "소득, 저축, 일정을 입력하여 맞춤형 임대 vs 구매 추천을 받으세요.",
+    "ctaButton": "계산기 열기"
+  },
+  "cities": {
+    "title": "모든 도시 — 임대 vs 구매 순위",
+    "subtitle": "2025년 임대 vs 구매 결정 기준으로 50개 주요 미국 도시 순위",
+    "filterAll": "전체",
+    "filterBuy": "구매 최적",
+    "filterRent": "임대 최적",
+    "filterNeutral": "중립",
+    "cityName": "도시",
+    "medianRent": "중위 임대료",
+    "medianHome": "중위 주택 가격",
+    "ratio": "가격 대 임대료 비율",
+    "breakeven": "손익분기점 (년)",
+    "verdict": "결론"
+  },
+  "city": {
+    "rentVsBuyIn": "임대 vs 구매:",
+    "year2025": "2025",
+    "medianRent": "중위 임대료",
+    "medianHomePrice": "중위 주택 가격",
+    "priceToRentRatio": "가격 대 임대료 비율",
+    "breakevenYears": "손익분기점 (년)",
+    "mortgageRate": "모기지 금리",
+    "propertyTax": "재산세율",
+    "verdict": "결론",
+    "ratioExplain": "15 미만 = 구매, 15–20 = 중립, 20 초과 = 임대",
+    "breakevenExplain": "구매가 임대보다 저렴해지는 기간",
+    "calculatorTitle": "분석 맞춤화",
+    "relatedCities": "유사 도시"
+  },
+  "calculator": {
+    "title": "임대 vs 구매 계산기",
+    "subtitle": "개인화된 손익분기점 분석을 받으세요",
+    "homePrice": "주택 가격",
+    "downPayment": "계약금 (%)",
+    "mortgageRate": "모기지 금리 (%)",
+    "loanTerm": "대출 기간 (년)",
+    "propertyTax": "재산세율 (%)",
+    "homeInsurance": "주택 보험 ($/월)",
+    "maintenance": "유지비율 (%/년)",
+    "monthlyRent": "현재 월 임대료",
+    "rentIncrease": "임대료 인상률 (%/년)",
+    "appreciation": "주택 가치 상승률 (%/년)",
+    "investmentReturn": "투자 수익률 (%/년)",
+    "timeline": "거주 계획 기간 (년)",
+    "calculate": "계산",
+    "reset": "초기화",
+    "results": "결과",
+    "monthlyOwnership": "월별 소유 비용",
+    "monthlyRentCost": "월별 임대료",
+    "breakevenAt": "손익분기점:",
+    "years": "년",
+    "recommendation": "추천",
+    "shareResults": "결과 공유"
+  },
+  "guide": {
+    "title": "임대 vs 구매 결정 가이드",
+    "subtitle": "2025년 올바른 주거 결정을 위한 모든 정보",
+    "section1Title": "가격 대 임대료 비율 이해하기",
+    "section2Title": "구매가 유리한 경우",
+    "section3Title": "임대가 유리한 경우",
+    "section4Title": "손익분기점 계산 방법"
+  },
+  "faq": {
+    "title": "자주 묻는 질문",
+    "subtitle": "임대 vs 구매에 대한 일반적인 질문"
+  },
+  "footer": {
+    "disclaimer": "데이터는 정보 제공 목적으로만 사용됩니다. 주거 결정 전 재정 전문가와 상담하세요.",
+    "visitorsToday": "오늘 방문자",
+    "visitorsTotal": "총 방문자",
+    "rights": "모든 권리 보유."
+  },
+  "verdict": {
+    "buy": "구매",
+    "rent": "임대",
+    "neutral": "중립"
+  }
+}

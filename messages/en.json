@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "home": "Home",
+    "cities": "Cities",
+    "states": "States",
+    "calculator": "Calculator",
+    "guide": "Guide",
+    "faq": "FAQ"
+  },
+  "home": {
+    "heroTitle": "Should You Rent or Buy?",
+    "heroSubtitle": "Free breakeven analysis for 50+ US cities. Find out when buying beats renting in your city.",
+    "searchPlaceholder": "Search a city...",
+    "bestCitiesToBuy": "Best Cities to Buy in 2025",
+    "bestCitiesToRent": "Best Cities to Rent in 2025",
+    "nationalStats": "National Overview",
+    "medianRent": "National Median Rent",
+    "medianHomePrice": "National Median Home Price",
+    "avgBreakeven": "Avg. Breakeven Years",
+    "priceToRentRatio": "Avg. Price-to-Rent Ratio",
+    "ctaTitle": "Run Your Personalized Analysis",
+    "ctaDesc": "Enter your income, savings, and timeline to get a custom rent vs. buy recommendation.",
+    "ctaButton": "Open Calculator"
+  },
+  "cities": {
+    "title": "All Cities — Rent vs Buy Rankings",
+    "subtitle": "50 major US cities ranked by rent vs buy verdict for 2025",
+    "filterAll": "All",
+    "filterBuy": "Best to Buy",
+    "filterRent": "Best to Rent",
+    "filterNeutral": "Neutral",
+    "cityName": "City",
+    "medianRent": "Median Rent",
+    "medianHome": "Median Home Price",
+    "ratio": "Price-to-Rent Ratio",
+    "breakeven": "Breakeven Years",
+    "verdict": "Verdict"
+  },
+  "city": {
+    "rentVsBuyIn": "Rent vs Buy in",
+    "year2025": "2025",
+    "medianRent": "Median Rent",
+    "medianHomePrice": "Median Home Price",
+    "priceToRentRatio": "Price-to-Rent Ratio",
+    "breakevenYears": "Breakeven Years",
+    "mortgageRate": "Mortgage Rate",
+    "propertyTax": "Property Tax Rate",
+    "verdict": "Verdict",
+    "ratioExplain": "Under 15 = buy, 15–20 = neutral, over 20 = rent",
+    "breakevenExplain": "Years until buying is cheaper than renting (cumulative costs)",
+    "calculatorTitle": "Customize Your Analysis",
+    "relatedCities": "Similar Cities"
+  },
+  "calculator": {
+    "title": "Rent vs Buy Calculator",
+    "subtitle": "Enter your details to get a personalized breakeven analysis",
+    "homePrice": "Home Price",
+    "downPayment": "Down Payment (%)",
+    "mortgageRate": "Mortgage Rate (%)",
+    "loanTerm": "Loan Term (years)",
+    "propertyTax": "Property Tax Rate (%)",
+    "homeInsurance": "Home Insurance ($/mo)",
+    "maintenance": "Maintenance Rate (%/yr)",
+    "monthlyRent": "Current Monthly Rent",
+    "rentIncrease": "Rent Increase Rate (%/yr)",
+    "appreciation": "Home Appreciation (%/yr)",
+    "investmentReturn": "Investment Return (%/yr)",
+    "timeline": "How long you plan to stay (years)",
+    "calculate": "Calculate",
+    "reset": "Reset",
+    "results": "Your Results",
+    "monthlyOwnership": "Monthly Ownership Cost",
+    "monthlyRentCost": "Monthly Rent",
+    "breakevenAt": "Breakeven at",
+    "years": "years",
+    "recommendation": "Recommendation",
+    "shareResults": "Share Results"
+  },
+  "guide": {
+    "title": "Rent vs Buy Decision Guide",
+    "subtitle": "Everything you need to know to make the right housing decision in 2025",
+    "section1Title": "Understanding the Price-to-Rent Ratio",
+    "section2Title": "When Does Buying Make Sense?",
+    "section3Title": "When Does Renting Make Sense?",
+    "section4Title": "How to Calculate Breakeven Years"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Common questions about renting vs buying"
+  },
+  "footer": {
+    "disclaimer": "Data is for informational purposes only. Consult a financial advisor before making housing decisions.",
+    "visitorsToday": "Visitors today",
+    "visitorsTotal": "Total visitors",
+    "rights": "All rights reserved."
+  },
+  "verdict": {
+    "buy": "Buy",
+    "rent": "Rent",
+    "neutral": "Neutral"
+  }
+}

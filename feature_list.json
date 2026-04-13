@@ -1,0 +1,19 @@
+{
+  "project": "rent-vs-buy-now",
+  "version": "1.0.0",
+  "features": [
+    { "id": "data-pipeline", "status": "done", "milestone": 1 },
+    { "id": "city-pages-ssg", "status": "done", "milestone": 2 },
+    { "id": "state-pages", "status": "done", "milestone": 2 },
+    { "id": "calculator", "status": "done", "milestone": 3 },
+    { "id": "compare-tool", "status": "pending", "milestone": 3 },
+    { "id": "all-500-cities", "status": "partial", "milestone": 4 },
+    { "id": "blog-articles", "status": "pending", "milestone": 4 },
+    { "id": "i18n-8langs", "status": "done", "milestone": 5 },
+    { "id": "seo-sitemap", "status": "done", "milestone": 5 },
+    { "id": "ads-adsterra", "status": "placeholder", "milestone": 6 },
+    { "id": "webhook-sheets", "status": "done", "milestone": 6 },
+    { "id": "visitor-counter", "status": "done", "milestone": 6 },
+    { "id": "vercel-deploy", "status": "done", "milestone": 7 }
+  ]
+}

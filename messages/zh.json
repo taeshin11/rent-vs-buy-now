@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "home": "首页",
+    "cities": "城市",
+    "states": "州",
+    "calculator": "计算器",
+    "guide": "指南",
+    "faq": "常见问题"
+  },
+  "home": {
+    "heroTitle": "租房还是买房？",
+    "heroSubtitle": "50多个美国城市的免费盈亏平衡分析。了解在您的城市何时购房比租房更划算。",
+    "searchPlaceholder": "搜索城市...",
+    "bestCitiesToBuy": "2025年最佳购房城市",
+    "bestCitiesToRent": "2025年最佳租房城市",
+    "nationalStats": "全国概览",
+    "medianRent": "全国中位租金",
+    "medianHomePrice": "全国中位房价",
+    "avgBreakeven": "平均盈亏平衡年数",
+    "priceToRentRatio": "平均价租比",
+    "ctaTitle": "运行个性化分析",
+    "ctaDesc": "输入您的收入、储蓄和时间线，获取定制化的租房vs购房建议。",
+    "ctaButton": "打开计算器"
+  },
+  "cities": {
+    "title": "所有城市 — 租房vs购房排名",
+    "subtitle": "按2025年租房vs购房判断排名的50个主要美国城市",
+    "filterAll": "全部",
+    "filterBuy": "最佳购房",
+    "filterRent": "最佳租房",
+    "filterNeutral": "中立",
+    "cityName": "城市",
+    "medianRent": "中位租金",
+    "medianHome": "中位房价",
+    "ratio": "价租比",
+    "breakeven": "盈亏平衡年数",
+    "verdict": "结论"
+  },
+  "city": {
+    "rentVsBuyIn": "租房vs购房:",
+    "year2025": "2025",
+    "medianRent": "中位租金",
+    "medianHomePrice": "中位房价",
+    "priceToRentRatio": "价租比",
+    "breakevenYears": "盈亏平衡年数",
+    "mortgageRate": "抵押贷款利率",
+    "propertyTax": "房产税率",
+    "verdict": "结论",
+    "ratioExplain": "15以下=购房，15-20=中立，20以上=租房",
+    "breakevenExplain": "购房累计成本低于租房的年数",
+    "calculatorTitle": "自定义您的分析",
+    "relatedCities": "类似城市"
+  },
+  "calculator": {
+    "title": "租房vs购房计算器",
+    "subtitle": "输入您的详情以获得个性化盈亏平衡分析",
+    "homePrice": "房价",
+    "downPayment": "首付（%）",
+    "mortgageRate": "抵押贷款利率（%）",
+    "loanTerm": "贷款期限（年）",
+    "propertyTax": "房产税率（%）",
+    "homeInsurance": "房屋保险（$/月）",
+    "maintenance": "维护费率（%/年）",
+    "monthlyRent": "当前月租金",
+    "rentIncrease": "租金涨幅（%/年）",
+    "appreciation": "房产升值（%/年）",
+    "investmentReturn": "投资回报率（%/年）",
+    "timeline": "计划居住年数（年）",
+    "calculate": "计算",
+    "reset": "重置",
+    "results": "结果",
+    "monthlyOwnership": "月度拥有成本",
+    "monthlyRentCost": "月租金",
+    "breakevenAt": "盈亏平衡点:",
+    "years": "年",
+    "recommendation": "建议",
+    "shareResults": "分享结果"
+  },
+  "guide": {
+    "title": "租房vs购房决策指南",
+    "subtitle": "2025年做出正确住房决策所需了解的一切",
+    "section1Title": "理解价租比",
+    "section2Title": "何时购房更合适？",
+    "section3Title": "何时租房更合适？",
+    "section4Title": "如何计算盈亏平衡年数"
+  },
+  "faq": {
+    "title": "常见问题",
+    "subtitle": "关于租房vs购房的常见问题"
+  },
+  "footer": {
+    "disclaimer": "数据仅供参考。在做出住房决定之前，请咨询财务顾问。",
+    "visitorsToday": "今日访客",
+    "visitorsTotal": "总访客",
+    "rights": "版权所有。"
+  },
+  "verdict": {
+    "buy": "购买",
+    "rent": "租房",
+    "neutral": "中立"
+  }
+}

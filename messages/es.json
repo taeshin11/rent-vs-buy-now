@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "cities": "Ciudades",
+    "states": "Estados",
+    "calculator": "Calculadora",
+    "guide": "Guía",
+    "faq": "Preguntas Frecuentes"
+  },
+  "home": {
+    "heroTitle": "¿Alquilar o Comprar?",
+    "heroSubtitle": "Análisis gratuito del punto de equilibrio para más de 50 ciudades de EE.UU. Descubre cuándo comprar supera a alquilar en tu ciudad.",
+    "searchPlaceholder": "Buscar una ciudad...",
+    "bestCitiesToBuy": "Mejores Ciudades para Comprar en 2025",
+    "bestCitiesToRent": "Mejores Ciudades para Alquilar en 2025",
+    "nationalStats": "Panorama Nacional",
+    "medianRent": "Alquiler Mediano Nacional",
+    "medianHomePrice": "Precio Mediano de Vivienda Nacional",
+    "avgBreakeven": "Años Promedio de Equilibrio",
+    "priceToRentRatio": "Ratio Precio-Alquiler Promedio",
+    "ctaTitle": "Ejecuta Tu Análisis Personalizado",
+    "ctaDesc": "Ingresa tus ingresos, ahorros y horizonte temporal para obtener una recomendación personalizada.",
+    "ctaButton": "Abrir Calculadora"
+  },
+  "cities": {
+    "title": "Todas las Ciudades — Rankings de Alquiler vs Compra",
+    "subtitle": "50 ciudades principales de EE.UU. clasificadas por veredicto de alquiler vs compra para 2025",
+    "filterAll": "Todas",
+    "filterBuy": "Mejor Comprar",
+    "filterRent": "Mejor Alquilar",
+    "filterNeutral": "Neutral",
+    "cityName": "Ciudad",
+    "medianRent": "Alquiler Mediano",
+    "medianHome": "Precio Mediano de Vivienda",
+    "ratio": "Ratio Precio-Alquiler",
+    "breakeven": "Años de Equilibrio",
+    "verdict": "Veredicto"
+  },
+  "city": {
+    "rentVsBuyIn": "Alquilar vs Comprar en",
+    "year2025": "2025",
+    "medianRent": "Alquiler Mediano",
+    "medianHomePrice": "Precio Mediano de Vivienda",
+    "priceToRentRatio": "Ratio Precio-Alquiler",
+    "breakevenYears": "Años de Equilibrio",
+    "mortgageRate": "Tasa Hipotecaria",
+    "propertyTax": "Tasa de Impuesto a la Propiedad",
+    "verdict": "Veredicto",
+    "ratioExplain": "Menos de 15 = comprar, 15–20 = neutral, más de 20 = alquilar",
+    "breakevenExplain": "Años hasta que comprar sea más barato que alquilar",
+    "calculatorTitle": "Personaliza Tu Análisis",
+    "relatedCities": "Ciudades Similares"
+  },
+  "calculator": {
+    "title": "Calculadora Alquiler vs Compra",
+    "subtitle": "Ingresa tus detalles para obtener un análisis de punto de equilibrio personalizado",
+    "homePrice": "Precio de la Vivienda",
+    "downPayment": "Pago Inicial (%)",
+    "mortgageRate": "Tasa Hipotecaria (%)",
+    "loanTerm": "Plazo del Préstamo (años)",
+    "propertyTax": "Tasa de Impuesto a la Propiedad (%)",
+    "homeInsurance": "Seguro de Vivienda ($/mes)",
+    "maintenance": "Tasa de Mantenimiento (%/año)",
+    "monthlyRent": "Alquiler Mensual Actual",
+    "rentIncrease": "Tasa de Aumento del Alquiler (%/año)",
+    "appreciation": "Apreciación de la Vivienda (%/año)",
+    "investmentReturn": "Retorno de Inversión (%/año)",
+    "timeline": "Años que planeas quedarte",
+    "calculate": "Calcular",
+    "reset": "Restablecer",
+    "results": "Resultados",
+    "monthlyOwnership": "Costo Mensual de Propiedad",
+    "monthlyRentCost": "Alquiler Mensual",
+    "breakevenAt": "Equilibrio en",
+    "years": "años",
+    "recommendation": "Recomendación",
+    "shareResults": "Compartir Resultados"
+  },
+  "guide": {
+    "title": "Guía de Decisión: Alquilar vs Comprar",
+    "subtitle": "Todo lo que necesitas saber para tomar la decisión correcta en 2025",
+    "section1Title": "Entendiendo el Ratio Precio-Alquiler",
+    "section2Title": "¿Cuándo tiene sentido comprar?",
+    "section3Title": "¿Cuándo tiene sentido alquilar?",
+    "section4Title": "Cómo calcular los años de equilibrio"
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Preguntas comunes sobre alquilar vs comprar"
+  },
+  "footer": {
+    "disclaimer": "Los datos son solo para fines informativos. Consulte a un asesor financiero antes de tomar decisiones de vivienda.",
+    "visitorsToday": "Visitantes hoy",
+    "visitorsTotal": "Total de visitantes",
+    "rights": "Todos los derechos reservados."
+  },
+  "verdict": {
+    "buy": "Comprar",
+    "rent": "Alquilar",
+    "neutral": "Neutral"
+  }
+}

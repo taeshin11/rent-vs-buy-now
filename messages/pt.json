@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "home": "Início",
+    "cities": "Cidades",
+    "states": "Estados",
+    "calculator": "Calculadora",
+    "guide": "Guia",
+    "faq": "Perguntas Frequentes"
+  },
+  "home": {
+    "heroTitle": "Alugar ou Comprar?",
+    "heroSubtitle": "Análise gratuita do ponto de equilíbrio para mais de 50 cidades dos EUA. Descubra quando comprar supera alugar na sua cidade.",
+    "searchPlaceholder": "Pesquisar uma cidade...",
+    "bestCitiesToBuy": "Melhores Cidades para Comprar em 2025",
+    "bestCitiesToRent": "Melhores Cidades para Alugar em 2025",
+    "nationalStats": "Panorama Nacional",
+    "medianRent": "Aluguel Mediano Nacional",
+    "medianHomePrice": "Preço Mediano de Imóvel Nacional",
+    "avgBreakeven": "Anos Médios de Equilíbrio",
+    "priceToRentRatio": "Relação Preço-Aluguel Média",
+    "ctaTitle": "Execute Sua Análise Personalizada",
+    "ctaDesc": "Insira sua renda, poupança e horizonte de tempo para uma recomendação personalizada.",
+    "ctaButton": "Abrir Calculadora"
+  },
+  "cities": {
+    "title": "Todas as Cidades — Rankings de Aluguel vs Compra",
+    "subtitle": "50 cidades principais dos EUA classificadas por veredicto de aluguel vs compra para 2025",
+    "filterAll": "Todas",
+    "filterBuy": "Melhor Comprar",
+    "filterRent": "Melhor Alugar",
+    "filterNeutral": "Neutro",
+    "cityName": "Cidade",
+    "medianRent": "Aluguel Mediano",
+    "medianHome": "Preço Mediano de Imóvel",
+    "ratio": "Relação Preço-Aluguel",
+    "breakeven": "Anos de Equilíbrio",
+    "verdict": "Veredicto"
+  },
+  "city": {
+    "rentVsBuyIn": "Alugar vs Comprar em",
+    "year2025": "2025",
+    "medianRent": "Aluguel Mediano",
+    "medianHomePrice": "Preço Mediano de Imóvel",
+    "priceToRentRatio": "Relação Preço-Aluguel",
+    "breakevenYears": "Anos de Equilíbrio",
+    "mortgageRate": "Taxa de Hipoteca",
+    "propertyTax": "Taxa de Imposto Predial",
+    "verdict": "Veredicto",
+    "ratioExplain": "Menos de 15 = comprar, 15–20 = neutro, mais de 20 = alugar",
+    "breakevenExplain": "Anos até comprar ser mais barato que alugar",
+    "calculatorTitle": "Personalize Sua Análise",
+    "relatedCities": "Cidades Similares"
+  },
+  "calculator": {
+    "title": "Calculadora Aluguel vs Compra",
+    "subtitle": "Insira seus detalhes para uma análise de ponto de equilíbrio personalizada",
+    "homePrice": "Preço do Imóvel",
+    "downPayment": "Entrada (%)",
+    "mortgageRate": "Taxa de Hipoteca (%)",
+    "loanTerm": "Prazo do Empréstimo (anos)",
+    "propertyTax": "Taxa de Imposto Predial (%)",
+    "homeInsurance": "Seguro Residencial ($/mês)",
+    "maintenance": "Taxa de Manutenção (%/ano)",
+    "monthlyRent": "Aluguel Mensal Atual",
+    "rentIncrease": "Taxa de Aumento do Aluguel (%/ano)",
+    "appreciation": "Valorização do Imóvel (%/ano)",
+    "investmentReturn": "Retorno de Investimento (%/ano)",
+    "timeline": "Anos que planeja ficar",
+    "calculate": "Calcular",
+    "reset": "Redefinir",
+    "results": "Resultados",
+    "monthlyOwnership": "Custo Mensal de Propriedade",
+    "monthlyRentCost": "Aluguel Mensal",
+    "breakevenAt": "Equilíbrio em",
+    "years": "anos",
+    "recommendation": "Recomendação",
+    "shareResults": "Compartilhar Resultados"
+  },
+  "guide": {
+    "title": "Guia de Decisão: Alugar vs Comprar",
+    "subtitle": "Tudo o que você precisa saber para tomar a decisão certa em 2025",
+    "section1Title": "Entendendo a Relação Preço-Aluguel",
+    "section2Title": "Quando faz sentido comprar?",
+    "section3Title": "Quando faz sentido alugar?",
+    "section4Title": "Como calcular os anos de equilíbrio"
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "subtitle": "Perguntas comuns sobre alugar vs comprar"
+  },
+  "footer": {
+    "disclaimer": "Os dados são apenas para fins informativos. Consulte um assessor financeiro antes de tomar decisões de moradia.",
+    "visitorsToday": "Visitantes hoje",
+    "visitorsTotal": "Total de visitantes",
+    "rights": "Todos os direitos reservados."
+  },
+  "verdict": {
+    "buy": "Comprar",
+    "rent": "Alugar",
+    "neutral": "Neutro"
+  }
+}

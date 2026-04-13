@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "cities": "Städte",
+    "states": "Bundesstaaten",
+    "calculator": "Rechner",
+    "guide": "Leitfaden",
+    "faq": "FAQ"
+  },
+  "home": {
+    "heroTitle": "Mieten oder Kaufen?",
+    "heroSubtitle": "Kostenlose Break-Even-Analyse für über 50 US-Städte. Finden Sie heraus, wann Kaufen in Ihrer Stadt Mieten schlägt.",
+    "searchPlaceholder": "Stadt suchen...",
+    "bestCitiesToBuy": "Beste Kaufstädte 2025",
+    "bestCitiesToRent": "Beste Mietstädte 2025",
+    "nationalStats": "Nationale Übersicht",
+    "medianRent": "Nationale Median-Miete",
+    "medianHomePrice": "Nationaler Median-Hauspreis",
+    "avgBreakeven": "Durchschnittliche Break-Even-Jahre",
+    "priceToRentRatio": "Durchschnittliches Preis-Miet-Verhältnis",
+    "ctaTitle": "Führen Sie Ihre persönliche Analyse durch",
+    "ctaDesc": "Geben Sie Einkommen, Ersparnisse und Zeitplan ein für eine individuelle Empfehlung.",
+    "ctaButton": "Rechner öffnen"
+  },
+  "cities": {
+    "title": "Alle Städte — Mieten vs. Kaufen Rankings",
+    "subtitle": "50 große US-Städte nach Mieten-vs-Kaufen-Urteil für 2025 gerankt",
+    "filterAll": "Alle",
+    "filterBuy": "Beste Kaufstädte",
+    "filterRent": "Beste Mietstädte",
+    "filterNeutral": "Neutral",
+    "cityName": "Stadt",
+    "medianRent": "Median-Miete",
+    "medianHome": "Median-Hauspreis",
+    "ratio": "Preis-Miet-Verhältnis",
+    "breakeven": "Break-Even-Jahre",
+    "verdict": "Urteil"
+  },
+  "city": {
+    "rentVsBuyIn": "Mieten vs. Kaufen in",
+    "year2025": "2025",
+    "medianRent": "Median-Miete",
+    "medianHomePrice": "Median-Hauspreis",
+    "priceToRentRatio": "Preis-Miet-Verhältnis",
+    "breakevenYears": "Break-Even-Jahre",
+    "mortgageRate": "Hypothekenzins",
+    "propertyTax": "Grundsteuerrate",
+    "verdict": "Urteil",
+    "ratioExplain": "Unter 15 = kaufen, 15–20 = neutral, über 20 = mieten",
+    "breakevenExplain": "Jahre bis Kaufen günstiger als Mieten ist",
+    "calculatorTitle": "Analyse anpassen",
+    "relatedCities": "Ähnliche Städte"
+  },
+  "calculator": {
+    "title": "Mieten vs. Kaufen Rechner",
+    "subtitle": "Geben Sie Ihre Daten ein für eine persönliche Break-Even-Analyse",
+    "homePrice": "Hauspreis",
+    "downPayment": "Anzahlung (%)",
+    "mortgageRate": "Hypothekenzins (%)",
+    "loanTerm": "Kreditlaufzeit (Jahre)",
+    "propertyTax": "Grundsteuerrate (%)",
+    "homeInsurance": "Hausversicherung ($/Monat)",
+    "maintenance": "Wartungsrate (%/Jahr)",
+    "monthlyRent": "Aktuelle Monatsmiete",
+    "rentIncrease": "Mietsteigerungsrate (%/Jahr)",
+    "appreciation": "Wertsteigerung (%/Jahr)",
+    "investmentReturn": "Investitionsrendite (%/Jahr)",
+    "timeline": "Geplante Wohndauer (Jahre)",
+    "calculate": "Berechnen",
+    "reset": "Zurücksetzen",
+    "results": "Ergebnisse",
+    "monthlyOwnership": "Monatliche Eigentumskosten",
+    "monthlyRentCost": "Monatsmiete",
+    "breakevenAt": "Break-Even bei",
+    "years": "Jahren",
+    "recommendation": "Empfehlung",
+    "shareResults": "Ergebnisse teilen"
+  },
+  "guide": {
+    "title": "Entscheidungsleitfaden: Mieten vs. Kaufen",
+    "subtitle": "Alles, was Sie für die richtige Wohnentscheidung 2025 wissen müssen",
+    "section1Title": "Das Preis-Miet-Verhältnis verstehen",
+    "section2Title": "Wann macht Kaufen Sinn?",
+    "section3Title": "Wann macht Mieten Sinn?",
+    "section4Title": "So berechnen Sie die Break-Even-Jahre"
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "subtitle": "Häufige Fragen zum Thema Mieten vs. Kaufen"
+  },
+  "footer": {
+    "disclaimer": "Daten dienen nur zu Informationszwecken. Konsultieren Sie einen Finanzberater vor Wohnentscheidungen.",
+    "visitorsToday": "Besucher heute",
+    "visitorsTotal": "Besucher gesamt",
+    "rights": "Alle Rechte vorbehalten."
+  },
+  "verdict": {
+    "buy": "Kaufen",
+    "rent": "Mieten",
+    "neutral": "Neutral"
+  }
+}

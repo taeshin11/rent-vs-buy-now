@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "cities": "Villes",
+    "states": "États",
+    "calculator": "Calculateur",
+    "guide": "Guide",
+    "faq": "FAQ"
+  },
+  "home": {
+    "heroTitle": "Louer ou Acheter ?",
+    "heroSubtitle": "Analyse gratuite du seuil de rentabilité pour plus de 50 villes américaines. Découvrez quand acheter bat la location dans votre ville.",
+    "searchPlaceholder": "Rechercher une ville...",
+    "bestCitiesToBuy": "Meilleures Villes pour Acheter en 2025",
+    "bestCitiesToRent": "Meilleures Villes pour Louer en 2025",
+    "nationalStats": "Vue d'ensemble nationale",
+    "medianRent": "Loyer médian national",
+    "medianHomePrice": "Prix médian des logements",
+    "avgBreakeven": "Années de seuil moyennes",
+    "priceToRentRatio": "Ratio prix/loyer moyen",
+    "ctaTitle": "Lancez Votre Analyse Personnalisée",
+    "ctaDesc": "Entrez vos revenus, épargne et horizon temporel pour une recommandation personnalisée.",
+    "ctaButton": "Ouvrir le Calculateur"
+  },
+  "cities": {
+    "title": "Toutes les Villes — Classements Location vs Achat",
+    "subtitle": "50 grandes villes américaines classées par verdict location vs achat pour 2025",
+    "filterAll": "Toutes",
+    "filterBuy": "Mieux Acheter",
+    "filterRent": "Mieux Louer",
+    "filterNeutral": "Neutre",
+    "cityName": "Ville",
+    "medianRent": "Loyer Médian",
+    "medianHome": "Prix Médian du Logement",
+    "ratio": "Ratio Prix/Loyer",
+    "breakeven": "Années de Seuil",
+    "verdict": "Verdict"
+  },
+  "city": {
+    "rentVsBuyIn": "Louer vs Acheter à",
+    "year2025": "2025",
+    "medianRent": "Loyer Médian",
+    "medianHomePrice": "Prix Médian du Logement",
+    "priceToRentRatio": "Ratio Prix/Loyer",
+    "breakevenYears": "Années de Seuil",
+    "mortgageRate": "Taux Hypothécaire",
+    "propertyTax": "Taux d'Imposition Foncière",
+    "verdict": "Verdict",
+    "ratioExplain": "Moins de 15 = acheter, 15–20 = neutre, plus de 20 = louer",
+    "breakevenExplain": "Années avant que l'achat soit moins cher que la location",
+    "calculatorTitle": "Personnalisez Votre Analyse",
+    "relatedCities": "Villes Similaires"
+  },
+  "calculator": {
+    "title": "Calculateur Location vs Achat",
+    "subtitle": "Entrez vos détails pour une analyse de seuil personnalisée",
+    "homePrice": "Prix du Logement",
+    "downPayment": "Apport Initial (%)",
+    "mortgageRate": "Taux Hypothécaire (%)",
+    "loanTerm": "Durée du Prêt (ans)",
+    "propertyTax": "Taux d'Imposition Foncière (%)",
+    "homeInsurance": "Assurance Habitation ($/mois)",
+    "maintenance": "Taux d'Entretien (%/an)",
+    "monthlyRent": "Loyer Mensuel Actuel",
+    "rentIncrease": "Augmentation du Loyer (%/an)",
+    "appreciation": "Appréciation du Logement (%/an)",
+    "investmentReturn": "Rendement de l'Investissement (%/an)",
+    "timeline": "Années prévues de résidence",
+    "calculate": "Calculer",
+    "reset": "Réinitialiser",
+    "results": "Résultats",
+    "monthlyOwnership": "Coût Mensuel de Propriété",
+    "monthlyRentCost": "Loyer Mensuel",
+    "breakevenAt": "Seuil à",
+    "years": "ans",
+    "recommendation": "Recommandation",
+    "shareResults": "Partager les Résultats"
+  },
+  "guide": {
+    "title": "Guide de Décision : Louer vs Acheter",
+    "subtitle": "Tout ce que vous devez savoir pour prendre la bonne décision en 2025",
+    "section1Title": "Comprendre le Ratio Prix/Loyer",
+    "section2Title": "Quand l'achat est-il judicieux ?",
+    "section3Title": "Quand la location est-elle judicieuse ?",
+    "section4Title": "Comment calculer les années de seuil"
+  },
+  "faq": {
+    "title": "Questions Fréquentes",
+    "subtitle": "Questions courantes sur la location vs l'achat"
+  },
+  "footer": {
+    "disclaimer": "Les données sont à titre informatif uniquement. Consultez un conseiller financier avant toute décision immobilière.",
+    "visitorsToday": "Visiteurs aujourd'hui",
+    "visitorsTotal": "Total des visiteurs",
+    "rights": "Tous droits réservés."
+  },
+  "verdict": {
+    "buy": "Acheter",
+    "rent": "Louer",
+    "neutral": "Neutre"
+  }
+}

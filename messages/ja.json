@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "cities": "都市",
+    "states": "州",
+    "calculator": "計算機",
+    "guide": "ガイド",
+    "faq": "よくある質問"
+  },
+  "home": {
+    "heroTitle": "賃貸 vs 購入、どちらが得？",
+    "heroSubtitle": "50以上の米国都市の無料損益分岐点分析。あなたの都市で購入が賃貸より有利になる時期を調べましょう。",
+    "searchPlaceholder": "都市を検索...",
+    "bestCitiesToBuy": "2025年購入最適都市",
+    "bestCitiesToRent": "2025年賃貸最適都市",
+    "nationalStats": "全国概要",
+    "medianRent": "全国中央値家賃",
+    "medianHomePrice": "全国中央値住宅価格",
+    "avgBreakeven": "平均損益分岐点（年）",
+    "priceToRentRatio": "平均価格対家賃比率",
+    "ctaTitle": "個別分析を実行",
+    "ctaDesc": "収入、貯蓄、期間を入力して、カスタム賃貸vs購入の推薦を受けましょう。",
+    "ctaButton": "計算機を開く"
+  },
+  "cities": {
+    "title": "全都市 — 賃貸vs購入ランキング",
+    "subtitle": "2025年賃貸vs購入判定による50大都市ランキング",
+    "filterAll": "全て",
+    "filterBuy": "購入最適",
+    "filterRent": "賃貸最適",
+    "filterNeutral": "中立",
+    "cityName": "都市",
+    "medianRent": "中央値家賃",
+    "medianHome": "中央値住宅価格",
+    "ratio": "価格対家賃比率",
+    "breakeven": "損益分岐点（年）",
+    "verdict": "判定"
+  },
+  "city": {
+    "rentVsBuyIn": "賃貸vs購入:",
+    "year2025": "2025",
+    "medianRent": "中央値家賃",
+    "medianHomePrice": "中央値住宅価格",
+    "priceToRentRatio": "価格対家賃比率",
+    "breakevenYears": "損益分岐点（年）",
+    "mortgageRate": "住宅ローン金利",
+    "propertyTax": "固定資産税率",
+    "verdict": "判定",
+    "ratioExplain": "15未満=購入、15〜20=中立、20超=賃貸",
+    "breakevenExplain": "購入が賃貸より安くなるまでの年数",
+    "calculatorTitle": "分析をカスタマイズ",
+    "relatedCities": "類似都市"
+  },
+  "calculator": {
+    "title": "賃貸vs購入計算機",
+    "subtitle": "個別の損益分岐点分析を取得",
+    "homePrice": "住宅価格",
+    "downPayment": "頭金（%）",
+    "mortgageRate": "住宅ローン金利（%）",
+    "loanTerm": "ローン期間（年）",
+    "propertyTax": "固定資産税率（%）",
+    "homeInsurance": "住宅保険（$/月）",
+    "maintenance": "維持費率（%/年）",
+    "monthlyRent": "現在の月額家賃",
+    "rentIncrease": "家賃上昇率（%/年）",
+    "appreciation": "住宅価値上昇率（%/年）",
+    "investmentReturn": "投資収益率（%/年）",
+    "timeline": "居住予定期間（年）",
+    "calculate": "計算",
+    "reset": "リセット",
+    "results": "結果",
+    "monthlyOwnership": "月額所有コスト",
+    "monthlyRentCost": "月額家賃",
+    "breakevenAt": "損益分岐点:",
+    "years": "年",
+    "recommendation": "推薦",
+    "shareResults": "結果を共有"
+  },
+  "guide": {
+    "title": "賃貸vs購入決定ガイド",
+    "subtitle": "2025年の正しい住居決定のための全情報",
+    "section1Title": "価格対家賃比率を理解する",
+    "section2Title": "購入が有利な場合",
+    "section3Title": "賃貸が有利な場合",
+    "section4Title": "損益分岐点の計算方法"
+  },
+  "faq": {
+    "title": "よくある質問",
+    "subtitle": "賃貸vs購入に関する一般的な質問"
+  },
+  "footer": {
+    "disclaimer": "データは情報提供のみを目的としています。住居決定前に財務アドバイザーにご相談ください。",
+    "visitorsToday": "本日の訪問者",
+    "visitorsTotal": "総訪問者",
+    "rights": "全著作権所有。"
+  },
+  "verdict": {
+    "buy": "購入",
+    "rent": "賃貸",
+    "neutral": "中立"
+  }
+}
