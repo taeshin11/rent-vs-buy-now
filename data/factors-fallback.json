@@ -1,11 +1,11 @@
 {
-  "mortgageRate": 6.8,
+  "mortgageRate": 6.65,
   "downPaymentPercent": 20,
   "loanTermYears": 30,
   "propertyTaxRate": 1.1,
   "homeInsuranceRate": 0.5,
   "maintenanceRate": 1.0,
-  "homeAppreciationRate": 3.5,
+  "homeAppreciationRate": 2.8,
   "rentIncreaseRate": 3.0,
   "investmentReturnRate": 7.0,
   "closingCostsPercent": 3.0,
@@ -13,9 +13,9 @@
   "opportunityCostRate": 7.0,
   "standardDeduction": 14600,
   "marginalTaxRate": 22,
-  "nationalMedianRent": 1700,
-  "nationalMedianHomePrice": 420000,
-  "nationalBreakevenYears": 10,
-  "nationalPriceToRentRatio": 21,
-  "lastUpdated": "2025-01-01"
+  "nationalMedianRent": 1875,
+  "nationalMedianHomePrice": 432000,
+  "nationalBreakevenYears": 11,
+  "nationalPriceToRentRatio": 21.5,
+  "lastUpdated": "2026-04-22"
 }

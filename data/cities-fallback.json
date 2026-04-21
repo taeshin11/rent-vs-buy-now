@@ -7,7 +7,7 @@
     "medianRent": 3500,
     "priceToRentRatio": 28,
     "breakevenYears": 18,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 1.1,
     "verdict": "rent"
   },
@@ -19,7 +19,7 @@
     "medianRent": 3200,
     "priceToRentRatio": 25,
     "breakevenYears": 15,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 1.7,
     "verdict": "rent"
   },
@@ -31,7 +31,7 @@
     "medianRent": 2800,
     "priceToRentRatio": 27,
     "breakevenYears": 17,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 1.1,
     "verdict": "rent"
   },
@@ -43,7 +43,7 @@
     "medianRent": 2900,
     "priceToRentRatio": 22,
     "breakevenYears": 14,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 1.1,
     "verdict": "rent"
   },
@@ -55,7 +55,7 @@
     "medianRent": 2600,
     "priceToRentRatio": 24,
     "breakevenYears": 15,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 0.9,
     "verdict": "rent"
   },
@@ -67,7 +67,7 @@
     "medianRent": 2900,
     "priceToRentRatio": 24,
     "breakevenYears": 15,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 1.1,
     "verdict": "rent"
   },
@@ -79,7 +79,7 @@
     "medianRent": 2400,
     "priceToRentRatio": 24,
     "breakevenYears": 14,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 1.0,
     "verdict": "rent"
   },
@@ -91,7 +91,7 @@
     "medianRent": 2200,
     "priceToRentRatio": 21,
     "breakevenYears": 12,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 0.6,
     "verdict": "neutral"
   },
@@ -103,7 +103,7 @@
     "medianRent": 1900,
     "priceToRentRatio": 20,
     "breakevenYears": 11,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 1.8,
     "verdict": "neutral"
   },
@@ -115,7 +115,7 @@
     "medianRent": 1800,
     "priceToRentRatio": 16,
     "breakevenYears": 9,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 2.1,
     "verdict": "neutral"
   },
@@ -127,7 +127,7 @@
     "medianRent": 1900,
     "priceToRentRatio": 22,
     "breakevenYears": 13,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 1.0,
     "verdict": "rent"
   },
@@ -139,7 +139,7 @@
     "medianRent": 2500,
     "priceToRentRatio": 22,
     "breakevenYears": 13,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 0.6,
     "verdict": "rent"
   },
@@ -151,7 +151,7 @@
     "medianRent": 1700,
     "priceToRentRatio": 21,
     "breakevenYears": 11,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 0.7,
     "verdict": "neutral"
   },
@@ -163,7 +163,7 @@
     "medianRent": 1700,
     "priceToRentRatio": 19,
     "breakevenYears": 10,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 0.6,
     "verdict": "neutral"
   },
@@ -175,7 +175,7 @@
     "medianRent": 1700,
     "priceToRentRatio": 19,
     "breakevenYears": 10,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 1.8,
     "verdict": "neutral"
   },
@@ -187,7 +187,7 @@
     "medianRent": 1600,
     "priceToRentRatio": 16,
     "breakevenYears": 8,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 1.8,
     "verdict": "neutral"
   },
@@ -199,7 +199,7 @@
     "medianRent": 1600,
     "priceToRentRatio": 17,
     "breakevenYears": 9,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 1.1,
     "verdict": "neutral"
   },
@@ -211,7 +211,7 @@
     "medianRent": 1700,
     "priceToRentRatio": 19,
     "breakevenYears": 10,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 0.8,
     "verdict": "neutral"
   },
@@ -223,7 +223,7 @@
     "medianRent": 1700,
     "priceToRentRatio": 17,
     "breakevenYears": 9,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 0.8,
     "verdict": "neutral"
   },
@@ -235,7 +235,7 @@
     "medianRent": 1800,
     "priceToRentRatio": 18,
     "breakevenYears": 9,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 0.9,
     "verdict": "neutral"
   },
@@ -247,7 +247,7 @@
     "medianRent": 1500,
     "priceToRentRatio": 17,
     "breakevenYears": 8,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 1.3,
     "verdict": "neutral"
   },
@@ -259,7 +259,7 @@
     "medianRent": 1400,
     "priceToRentRatio": 17,
     "breakevenYears": 8,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 0.8,
     "verdict": "neutral"
   },
@@ -271,7 +271,7 @@
     "medianRent": 1400,
     "priceToRentRatio": 15,
     "breakevenYears": 7,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 1.0,
     "verdict": "neutral"
   },
@@ -283,7 +283,7 @@
     "medianRent": 1300,
     "priceToRentRatio": 15,
     "breakevenYears": 7,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 1.4,
     "verdict": "neutral"
   },
@@ -295,7 +295,7 @@
     "medianRent": 1300,
     "priceToRentRatio": 14,
     "breakevenYears": 6,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 1.5,
     "verdict": "buy"
   },
@@ -307,7 +307,7 @@
     "medianRent": 1200,
     "priceToRentRatio": 13,
     "breakevenYears": 5,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 1.6,
     "verdict": "buy"
   },
@@ -319,7 +319,7 @@
     "medianRent": 1300,
     "priceToRentRatio": 16,
     "breakevenYears": 8,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 0.9,
     "verdict": "neutral"
   },
@@ -331,7 +331,7 @@
     "medianRent": 1100,
     "priceToRentRatio": 14,
     "breakevenYears": 6,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 0.8,
     "verdict": "buy"
   },
@@ -343,7 +343,7 @@
     "medianRent": 1200,
     "priceToRentRatio": 14,
     "breakevenYears": 6,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 0.4,
     "verdict": "buy"
   },
@@ -355,7 +355,7 @@
     "medianRent": 1300,
     "priceToRentRatio": 13,
     "breakevenYears": 5,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 2.1,
     "verdict": "buy"
   },
@@ -367,7 +367,7 @@
     "medianRent": 1200,
     "priceToRentRatio": 15,
     "breakevenYears": 7,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 2.5,
     "verdict": "neutral"
   },
@@ -379,7 +379,7 @@
     "medianRent": 1300,
     "priceToRentRatio": 15,
     "breakevenYears": 7,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 1.4,
     "verdict": "neutral"
   },
@@ -391,7 +391,7 @@
     "medianRent": 1200,
     "priceToRentRatio": 15,
     "breakevenYears": 7,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 2.0,
     "verdict": "neutral"
   },
@@ -403,7 +403,7 @@
     "medianRent": 1300,
     "priceToRentRatio": 16,
     "breakevenYears": 8,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 1.6,
     "verdict": "neutral"
   },
@@ -415,7 +415,7 @@
     "medianRent": 1100,
     "priceToRentRatio": 15,
     "breakevenYears": 7,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 1.1,
     "verdict": "neutral"
   },
@@ -427,7 +427,7 @@
     "medianRent": 1200,
     "priceToRentRatio": 15,
     "breakevenYears": 7,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 1.1,
     "verdict": "neutral"
   },
@@ -439,7 +439,7 @@
     "medianRent": 1500,
     "priceToRentRatio": 16,
     "breakevenYears": 8,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 1.8,
     "verdict": "neutral"
   },
@@ -451,7 +451,7 @@
     "medianRent": 1600,
     "priceToRentRatio": 17,
     "breakevenYears": 9,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 1.8,
     "verdict": "neutral"
   },
@@ -463,7 +463,7 @@
     "medianRent": 1100,
     "priceToRentRatio": 15,
     "breakevenYears": 7,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 1.8,
     "verdict": "neutral"
   },
@@ -475,7 +475,7 @@
     "medianRent": 1300,
     "priceToRentRatio": 18,
     "breakevenYears": 9,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 0.7,
     "verdict": "neutral"
   },
@@ -487,7 +487,7 @@
     "medianRent": 1300,
     "priceToRentRatio": 18,
     "breakevenYears": 9,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 0.6,
     "verdict": "neutral"
   },
@@ -499,7 +499,7 @@
     "medianRent": 1700,
     "priceToRentRatio": 20,
     "breakevenYears": 10,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 0.6,
     "verdict": "neutral"
   },
@@ -511,7 +511,7 @@
     "medianRent": 2000,
     "priceToRentRatio": 22,
     "breakevenYears": 13,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 1.1,
     "verdict": "rent"
   },
@@ -523,7 +523,7 @@
     "medianRent": 1600,
     "priceToRentRatio": 17,
     "breakevenYears": 9,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 0.9,
     "verdict": "neutral"
   },
@@ -535,7 +535,7 @@
     "medianRent": 1700,
     "priceToRentRatio": 18,
     "breakevenYears": 9,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 1.0,
     "verdict": "neutral"
   },
@@ -547,7 +547,7 @@
     "medianRent": 1600,
     "priceToRentRatio": 16,
     "breakevenYears": 8,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 0.9,
     "verdict": "neutral"
   },
@@ -559,7 +559,7 @@
     "medianRent": 1800,
     "priceToRentRatio": 18,
     "breakevenYears": 9,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 0.9,
     "verdict": "neutral"
   },
@@ -571,7 +571,7 @@
     "medianRent": 1800,
     "priceToRentRatio": 17,
     "breakevenYears": 9,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 0.9,
     "verdict": "neutral"
   },
@@ -583,7 +583,7 @@
     "medianRent": 1900,
     "priceToRentRatio": 22,
     "breakevenYears": 13,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 0.6,
     "verdict": "rent"
   },
@@ -595,7 +595,7 @@
     "medianRent": 1700,
     "priceToRentRatio": 21,
     "breakevenYears": 11,
-    "mortgageRate": 6.8,
+    "mortgageRate": 6.65,
     "propertyTax": 0.6,
     "verdict": "neutral"
   }
