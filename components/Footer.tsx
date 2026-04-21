@@ -17,7 +17,7 @@ export default function Footer() {
   return (
     <footer className="bg-white border-t border-orange-200 mt-auto">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8">
           {/* Brand */}
           <div>
             <Link href="/" className="flex items-center gap-2 font-bold text-lg text-orange-600 mb-2">
@@ -29,7 +29,7 @@ export default function Footer() {
             </p>
           </div>
 
-          {/* Links */}
+          {/* Tools Links */}
           <div>
             <h3 className="font-semibold text-stone-700 mb-3">Tools</h3>
             <ul className="space-y-1 text-sm text-stone-500">
@@ -38,6 +38,17 @@ export default function Footer() {
               <li><Link href="/states" className="hover:text-orange-600">State Overview</Link></li>
               <li><Link href="/guide" className="hover:text-orange-600">Decision Guide</Link></li>
               <li><Link href="/faq" className="hover:text-orange-600">FAQ</Link></li>
+              <li><Link href="/how-to-use" className="hover:text-orange-600">How to Use</Link></li>
+            </ul>
+          </div>
+
+          {/* Company Links */}
+          <div>
+            <h3 className="font-semibold text-stone-700 mb-3">Company</h3>
+            <ul className="space-y-1 text-sm text-stone-500">
+              <li><Link href="/about" className="hover:text-orange-600">About Us</Link></li>
+              <li><Link href="/privacy" className="hover:text-orange-600">Privacy Policy</Link></li>
+              <li><Link href="/terms" className="hover:text-orange-600">Terms of Use</Link></li>
             </ul>
           </div>
 

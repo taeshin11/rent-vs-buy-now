@@ -3,6 +3,9 @@ import { getMessages, getLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Script from 'next/script';
+import { FeedbackButton } from '@/components/FeedbackButton';
+import { AdSocialBar } from '@/components/ads/AdSocialBar';
 
 const locales = ['en', 'ko', 'ja', 'zh', 'es', 'fr', 'de', 'pt'];
 
@@ -27,6 +30,9 @@ export default async function LocaleLayout({ children, params }: LocaleLayoutPro
       <main className="flex-1">
         {children}
       </main>
+      <AdSocialBar />
+      <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7098271335538021" crossOrigin="anonymous" strategy="afterInteractive" />
+      <FeedbackButton siteName="RentVsBuyNow" />
       <Footer />
     </NextIntlClientProvider>
   );

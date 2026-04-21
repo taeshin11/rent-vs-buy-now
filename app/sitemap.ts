@@ -5,7 +5,7 @@ const BASE_URL = 'https://rent-vs-buy-now.vercel.app';
 const locales = ['en', 'ko', 'ja', 'zh', 'es', 'fr', 'de', 'pt'];
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const staticPages = ['', '/cities', '/states', '/calculator', '/guide', '/faq'];
+  const staticPages = ['', '/cities', '/states', '/calculator', '/guide', '/faq', '/about', '/how-to-use', '/privacy', '/terms'];
 
   const pages: MetadataRoute.Sitemap = [];
 

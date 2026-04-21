@@ -7,17 +7,22 @@ import CityCard from '@/components/CityCard';
 import CityTable from '@/components/CityTable';
 import { City } from '@/lib/types';
 
+import { AdsterraNativeBanner } from '@/components/ads/AdsterraNativeBanner';
+import { AdsterraDisplay } from '@/components/ads/AdsterraDisplay';
+
 interface HomePageProps {
   params: Promise<{ locale: string }>;
 }
 
 export async function generateMetadata({ params }: HomePageProps): Promise<Metadata> {
   const { locale } = await params;
+  const canonicalUrl = `https://rent-vs-buy-now.vercel.app${locale === 'en' ? '/' : `/${locale}/`}`;
   return {
-    title: 'RentVsBuyNow — Rent vs Buy Breakeven Analysis by City (2025)',
-    description: 'Free rent vs buy calculator and breakeven analysis for 50+ US cities. Find out when buying beats renting with real 2025 data.',
+    title: 'Rent vs Buy Calculator 2025 — Should You Buy a Home? | RentVsBuyNow',
+    description: 'Use our free rent vs buy calculator to decide if buying a home makes financial sense. Compare total costs, build equity timeline, and break-even analysis.',
+    keywords: ['rent vs buy', 'should I buy a home', 'rent or buy calculator', 'price to rent ratio', 'buy vs rent 2025', 'home buying calculator', 'real estate calculator'],
     alternates: {
-      canonical: `https://rent-vs-buy-now.vercel.app${locale === 'en' ? '/' : `/${locale}/`}`,
+      canonical: canonicalUrl,
       languages: {
         'en': 'https://rent-vs-buy-now.vercel.app/',
         'ko': 'https://rent-vs-buy-now.vercel.app/ko/',
@@ -30,12 +35,22 @@ export async function generateMetadata({ params }: HomePageProps): Promise<Metad
       }
     },
     openGraph: {
-      title: 'RentVsBuyNow — Should You Rent or Buy? (2025)',
-      description: 'Free breakeven analysis for 50+ US cities. Real data, interactive calculator.',
-      url: 'https://rent-vs-buy-now.vercel.app',
+      title: 'Rent vs Buy Calculator 2025 — Should You Buy a Home? | RentVsBuyNow',
+      description: 'Use our free rent vs buy calculator to decide if buying a home makes financial sense. Compare total costs, build equity timeline, and break-even analysis.',
+      url: canonicalUrl,
       siteName: 'RentVsBuyNow',
       type: 'website',
-    }
+      locale: locale,
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: 'Rent vs Buy Calculator 2025 — Should You Buy a Home?',
+      description: 'Free rent vs buy calculator. Compare total costs, equity timeline, and break-even for 50+ US cities.',
+      site: '@RentVsBuyNow',
+    },
+    other: {
+      'google-adsense-account': 'ca-pub-7098271335538021',
+    },
   };
 }
 
@@ -220,6 +235,8 @@ export default async function HomePage({ params }: HomePageProps) {
           </div>
         </div>
       </section>
+      <AdsterraNativeBanner />
+      <AdsterraDisplay />
     </>
   );
 }
